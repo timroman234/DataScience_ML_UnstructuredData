@@ -98,7 +98,7 @@ Understanding customer personality and behavior is crucial for businesses to enh
 1. Review the HTML file for complete code and visualizations
 2. Clone the repository to replicate analysis:
 ```bash
-git clone [repository_url]
+
 ```
 
 3. Key libraries: `pandas`, `numpy`, `scikit-learn`, `matplotlib`, `seaborn`
